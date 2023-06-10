@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem Vindo ao meu Perfil 🐺
 
-<!--
-**Ob7toG9m1n/Ob7toG9m1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leonardo Conejo
 
-Here are some ideas to get you started:
+- Gosto de Fórmula 1
+- Jogo Valorant
+- Gosto de música eletronica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+leonardo.conejo.oliveira@escoal.pr.gov.br
+@leonardoconejo
+
+![](https://media.tenor.com/5ety3Lx3QccAAAAC/its-fine-dog-fine.gif)
